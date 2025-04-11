@@ -12,11 +12,6 @@ Welcome to the Hackathon! We're excited to have you on board and can't wait to s
 - **Email:** jmadhanplacement@gmail.com  
 - **Phone:** 8328557699  
 
-### Team Members:
-- Vijaya Lakshmi Galam 
-- <member_2> 
-- <member_3> 
-
 ## Problem Statement
 
 > **AI-Powered "Tuberculosis (TB) Diagnosis Assistant" for Rural Clinics**
